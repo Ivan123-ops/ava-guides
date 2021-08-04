@@ -50,7 +50,7 @@ Simple visit the link, provide your Ethereum address and click “REQUEST 10 AVA
 Next, go to your Metamask and you will see updated balance. 
 Tokens from this faucet are only for testing purposes and don’t represent any value.
 
-##3. Creating ERC-20 token with Remix
+## 3. Creating ERC-20 token with Remix
 Now it’s time to create our ERC-20 token! Visit [Remix](https://remix.ethereum.org/), click “SOLIDITY” and “New file”. 
 After that, navigate to the Workspaces section (files under the logo) and see a blank file, which you should rename. 
 In this case we name it avaerc.
