@@ -81,7 +81,7 @@ This contract includes the following abilities:
 
 This contract is already ready for deployment so we don’t need to change anything and can move on to “Deploy and run transactions” section which is right under Compiler icon.
 
-##4.Deployment
+## 4. Deployment
 In this section, choose Injected Web3 environment and connect your Metamask account with C-AVAX funds we requested from the faucet. In the “CONTRACT” field, select ***ERC20PresetMinterPauser.sol*** as it’s the main contract.
 Right before deployment, click the button next to “Deploy” sign and fill in the requisites:
 
@@ -103,7 +103,7 @@ and our ERC-20 contract address — 0x7ADc290F0098a8A7641e76238E86AfA5AA646e70.
 
 We have deployed our contract but now let’s mint some ERC-20 tokens!
 
-##5.Minting tokens
+## 5. Minting tokens
 
 Return to the Deploy and run transactions section and click under “Deployed contracts”. Here you can see some functions of the contract. You can refer to OpenZeppelin documention in order to find out more about smartcontract functions. We will focus on one that allows minting.
 
@@ -115,12 +115,12 @@ In the DEBUG section, we can see txHash — and we can find this txHash on the e
 
 ![Remix](https://miro.medium.com/max/700/1*ktYnhW157hZ9VoCKZvdqCA.png)
 
-##6.Adding NFT token to Metamask
+## 6. Adding NFT token to Metamask
 
 Open your Metamask Assets and click “Add token”. Insert the contract address we previously found out (in our case — 0x7ADc290F0098a8A7641e76238E86AfA5AA646e70), token symbol — AVAE and since NFT is non-fungible — leave decimals at 0.
 
 ![Remix](https://miro.medium.com/max/300/1*gqFfO16SCbE1NbxZ3aLIbg.png)
 
-##7.Conclusion
+## 7. Conclusion
 
 We have succesfully minted ERC-20 tokens on Avalanche Network with OpenZeppelin! Now you can move on to Mainnet and create "real" tokens. You can also follow OpenZeppelin documentation to find out more functions of it's smartcontract.
