@@ -1,12 +1,12 @@
-# How to deploy a ERC-721 token on Avalanche with OpenZeppelin
+# How to deploy a ERC-20 token on Avalanche with OpenZeppelin
 Published on 3 August 2021
 
 ***YouTube guide available! (Click on the image below)***
 
 [![Youtube guide](http://img.youtube.com/vi/OCyOyqDDXOA/0.jpg)](https://www.youtube.com/watch?v=OCyOyqDDXOA)
 
-This guide will help you to create a ERC-721 token which represents ownership of non-fingible tokens or NFTs.
-In this case, every token is unique and and the same time can be transferred between individuals.
+This guide will help you to create a ERC-20 token on Avalanche Network. The main idea is to deploy Solidity smart contract on Avalanche blockchain. 
+So now, let’s walk through the steps.
 
 ## 1. Setting up Metamask
 First thing you need to do is to setup a custom RPC in your Metamask in order to connect to FUJI Testnet on Avalanche C-Chain. 
