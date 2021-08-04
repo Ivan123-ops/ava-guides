@@ -123,4 +123,4 @@ Open your Metamask Assets and click “Add token”. Insert the contract address
 
 ## 7. Conclusion
 
-We have succesfully minted ERC-20 tokens on Avalanche Network with OpenZeppelin! Now you can move on to Mainnet and create "real" tokens. You can also follow OpenZeppelin documentation to find out more functions of it's smartcontract.
+We have succesfully minted ERC-20 tokens on Avalanche Network with OpenZeppelin! Now you can move on to Mainnet and create "real" tokens. You can also follow OpenZeppelin documentation to find out more functions of it's smartcontract https://docs.openzeppelin.com/contracts/4.x/erc20
